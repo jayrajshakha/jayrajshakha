@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @jayrajshakha
-- 👀 I’m interested in Ui devlopment
-- 🌱 I’m currently learning React js and working.
-- 💞️ I’m looking to collaborate on varies projects.
-- 📫 
+- 👋 Hi, I’m @jayRajshakha,
+- 👀 I’m interested in Ui/UX devlopment,
+- 🌱 I’m currently learning React js and working
+ 
 
 <!---
 jayrajshakha/jayrajshakha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
